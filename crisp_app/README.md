@@ -1,7 +1,9 @@
 # crisp_app
 
 A new Flutter project.
-
+<p align="center">
+  <img src="example/cirsp.gif" width="180" height = ""title="hover text">
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
